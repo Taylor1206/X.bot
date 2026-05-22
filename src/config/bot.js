@@ -156,7 +156,7 @@ export const botConfig = {
   economy: {
     currency: {
       // Currency display name.
-      name: "coins",
+      name: "coin",
       // Plural display name.
       namePlural: "coins",
       // Currency symbol shown in balances.
@@ -425,7 +425,7 @@ export const botConfig = {
     cooldownActive: "Please wait {time} before using this command again.",
     errorOccurred: "An error occurred while executing this command.",
     missingPermissions:
-      "I am missing required permissions to perform this action.",
+      "Your missing something",
     commandDisabled: "This command has been disabled.",
     maintenanceMode: "The bot is currently in maintenance mode.",
   },
